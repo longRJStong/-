@@ -1,0 +1,12 @@
+{
+    "SYSTEM\\CurrentControlSet\\Enum\\PCI\\VEN_1002&DEV_13C0&SUBSYS_D0001458&REV_CB\\4&16012499&0&0041": "@oem13.inf,%amd13c0.10%;AMD Radeon(TM) Graphics",
+    "SYSTEM\\CurrentControlSet\\Enum\\PCI\\VEN_1002&DEV_1640&SUBSYS_16401002&REV_00\\4&16012499&0&0141": "@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller",
+    "SYSTEM\\CurrentControlSet\\Enum\\PCI\\VEN_10DE&DEV_22E9&SUBSYS_000010DE&REV_A1\\4&d0bdf66&0&0109": "@hdaudbus.inf,%hdaudio.devicedesc%;High Definition Audio Controller",
+    "SYSTEM\\CurrentControlSet\\Enum\\PCI\\VEN_10DE&DEV_2C05&SUBSYS_205C1B4C&REV_A1\\1BFC36297A2DB04800": "@oem24.inf,%nvidia_dev.2c05%;NVIDIA GeForce RTX 5070 Ti",
+    "SYSTEM\\CurrentControlSet\\Enum\\PCI\\VEN_15AD&DEV_0405&SUBSYS_040515AD&REV_00\\3&61aaa01&0&78": "@display.inf,%msbdaname%;Microsoft Basic Display Adapter",
+    "SYSTEM\\CurrentControlSet\\Enum\\PCI\\VEN_8086&DEV_10D3&SUBSYS_07D015AD&REV_00\\000C29FFFF5F77D100": "@net1ic64.inf,%e10d3nc.devicedesc%;Intel(R) 82574L Gigabit Network Connection",
+    "SYSTEM\\CurrentControlSet\\Enum\\PCI\\VEN_8086&DEV_7110&SUBSYS_197615AD&REV_08\\3&61aaa01&0&38": "@machine.inf,%pcitoisabridge_desc%;PCI to ISA Bridge",
+    "SYSTEM\\CurrentControlSet\\Enum\\PCI\\VEN_8086&DEV_7111&SUBSYS_197615AD&REV_01\\3&61aaa01&0&39": "@mshdc.inf,%pci\\ven_8086&dev_7111.devicedesc%;Intel(R) 82371AB/EB PCI Bus Master IDE Controller",
+    "SYSTEM\\CurrentControlSet\\Enum\\PCI\\VEN_8086&DEV_7190&SUBSYS_197615AD&REV_01\\3&61aaa01&0&00": "@machine.inf,%cputopcibridge_desc%;CPU to PCI Bridge",
+    "SYSTEM\\CurrentControlSet\\Enum\\PCI\\VEN_8086&DEV_7191&SUBSYS_00000000&REV_01\\3&61aaa01&0&08": "@pci.inf,%pci\\cc_0604.devicedesc%;PCI-to-PCI Bridge"
+}
